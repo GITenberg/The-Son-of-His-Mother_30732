@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34774
     wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30732#The-Son-of-His-Mother
 gutenberg_issued: '2009-12-22'
 gutenberg_type: Text
 identifiers:
